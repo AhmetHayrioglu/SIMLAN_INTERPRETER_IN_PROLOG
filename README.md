@@ -32,14 +32,14 @@ Here is an overview of the available SimLan commands:
 This is a sample SimLan program that prints the integers from 0 to 9:
 
 ```
-put 1,r5
-put 0,r1
-put 10,r2
-jmpe r1,r2,8
-prn r1
-add r5,r1
-jmpu 4
-halt
+1) put 1,r5
+2) put 0,r1
+3) put 10,r2
+4) jmpe r1,r2,8
+5) prn r1
+6) add r5,r1
+7) jmpu 4
+8) halt
 ```
 
 ### How It Works
