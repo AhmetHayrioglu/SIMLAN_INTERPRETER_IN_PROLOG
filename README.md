@@ -2,6 +2,10 @@
 
 This repository contains an interpreter for the SimLan programming language, written in Prolog. SimLan is a simple assembly-like langauge.
 
+What is Prolog?
+https://www.geeksforgeeks.org/prolog-an-introduction/
+
+For more : https://lpn.swi-prolog.org/lpnpage.php?pageid=online
 ## Description
 
 SimLan is a simple language designed to perform operations like adding integers, assigning values to registers, conditional jumps, and printing values. The interpreter simulates CPU register operations (with 32 registers) and executes commands like `put`, `add`, `prn`, `jmpe`, `jmpu`, and `halt`.
